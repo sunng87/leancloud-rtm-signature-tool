@@ -1,0 +1,12 @@
+[package]
+name = "leancloud-rtm-signature-tool"
+version = "0.1.0"
+authors = ["Ning Sun <sunng@about.me>"]
+
+[dependencies]
+docopt = "*"
+docopt_macros = "*"
+rust-crypto = "*"
+rustc-serialize = "*"
+rand = "*"
+time = "*"
